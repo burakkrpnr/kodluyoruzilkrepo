@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 <br/>Bu repo [Kodluyoruz](https://www.kodluyoruz.org)
-! [Github](foto/1.png) <br>Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+! [Github](foto.png)<br>Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ## Installation
 Öncelikle projeyi clonelayın
 ```bash
@@ -21,3 +21,5 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[def]: foto/1.png
